@@ -10,8 +10,6 @@
 
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <h3 align="left">Lenguajes de Programación:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,kotlin,html,css,py,sqlite" />
