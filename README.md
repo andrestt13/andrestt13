@@ -9,38 +9,61 @@
 
 <br>
 
-<h3 align="left">Lenguajes de Programación:</h3>
+<!-- Separador -->
+<hr style="border: 1px solid #000; width: 100%;">
 
+<h3 align="left">Lenguajes de Programación:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,kotlin,html,css,py,sqlite" />
+  <img src="https://skillicons.dev/icons?i=java,js,kotlin,html,css,py" />
 </p>
+
+<!-- Separador con barra -->
+<hr style="border: 1px solid #000; width: 100%;">
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ionic,spring" />
 </p>
 
+<!-- Separador con barra -->
+<hr style="border: 1px solid #000; width: 100%;">
+
 <h3 align="left">Entornos de Desarrollo:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=visualstudio,eclipse,postman,androidstudio,netbeans,unity" />
 </p>
+
+<!-- Separador con barra -->
+<hr style="border: 1px solid #000; width: 100%;">
 
 <h3 align="left">Bases de Datos:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
+<!-- Separador con barra -->
+<hr style="border: 1px solid #000; width: 100%;">
+
 <h3 align="left">Software de Virtualización:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=virtualbox" />
 </p>
+
+<!-- Separador con barra -->
+<hr style="border: 1px solid #000; width: 100%;">
 
 <h3 align="left">Manejo de Datos:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=xml" />
 </p>
 
+<!-- Separador con barra -->
+<hr style="border: 1px solid #000; width: 100%;">
+
 <h3 align="left">Sistemas de Gestión de Contenidos:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
+
+<!-- Separador final -->
+<hr style="border: 1px solid #000; width: 100%;">
