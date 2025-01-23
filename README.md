@@ -22,7 +22,7 @@
 
 <h3 align="left">Entornos de Desarrollo:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=oracle,visualstudio,eclipse,postman,androidstudio,netbeans,unity" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,eclipse,postman,androidstudio,netbeans,unity" />
 </p>
 
 <h3 align="left">Bases de Datos:</h3>
@@ -44,7 +44,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
-
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
